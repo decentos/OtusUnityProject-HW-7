@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d5a6586f68fc34cb8403ff69eb43c6, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  Health1: 0
+  Health2: 0
+  Health3: 0
+  Health5: 0
+  Health6: 0
+  Health7: 0
+  Health8: 
+  Health9: 
